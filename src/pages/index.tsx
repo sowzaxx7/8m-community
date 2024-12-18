@@ -49,7 +49,7 @@ export default function Home() {
             <button
               onClick={() => {
                 Router.push(
-                  'https://discord.com/oauth2/authorize?client_id=1312488135309004800&response_type=code&redirect_uri=https%3A%2F%2F8mvazamentos.xyz%2Fapi%2Fauth%2Fdiscord%2Fcallback&scope=email+identify'
+                  'https://discord.com/oauth2/authorize?client_id=1285629837670617222&response_type=code&redirect_uri=https%3A%2F%2Fsowzaxv1-teste.vercel.app%2Fapi%2Fauth%2Fdiscord%2Fcallback&scope=email+identify'
                 );
               }}
               className="flex items-center text-white rounded-full border border-zinc-600 px-6 py-3 text-lg hover:bg-white hover:text-[#262d34] transition-colors"
